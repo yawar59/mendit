@@ -24,6 +24,7 @@ Users can use Mendit as a place to post feature requests, learn what others thin
 Our mission is to create a space where users are encouraged to share their thoughts on products to help increase product satisfaction.
 
 # Get started
+[Login or Sign-up](https://mendit.io/login) to start.
 
 ## Add a company
 
